@@ -3,10 +3,10 @@
 
 Dataset - https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data
 
-CNN Model
+CNN Model - r2 score for CNN  0.995
 
-![alt text](https://github.com/fduque/atm_pressure_ioT_forecast_MLP_CNN/blob/master/CNN.PNG)
+ ![alt text](https://github.com/fduque/atm_pressure_ioT_forecast_MLP_CNN/blob/master/CNN.PNG)
 
-MLP Model
+MLP Model - R2 Score for MLP  0.9957
 
-![alt text](https://github.com/fduque/atm_pressure_ioT_forecast_MLP_CNN/blob/master/MLP.PNG)
+ ![alt text](https://github.com/fduque/atm_pressure_ioT_forecast_MLP_CNN/blob/master/MLP.PNG)
